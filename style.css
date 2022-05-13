@@ -477,6 +477,9 @@ p{
     .toggle{
         right: 40px;
     }
+    .btnCon{
+        width: 100%;
+    }
     .sci{
         left: 40px;
     }
